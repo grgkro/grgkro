@@ -24,4 +24,7 @@ Hi, i'm [Georg](https://coinswithlove.com/), a passionate full stack web and bac
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=grgkro&show_icons=true&theme=gotham" alt="loicgeek" />
   
 
-try my package: `npx grgkro`
+
+  
+  
+  `npx grgkro`
